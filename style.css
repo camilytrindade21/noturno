@@ -2,10 +2,10 @@
 
 :root {
     --cor-de-fundo: #1E1E1E;
-    --verde: #960317;
-    --branco: #2b22af;
+    --verde: #031296;
+    --branco: #3128a8;
     --botao-ativo: #585577;
-    --botao-inativo: rgba(155, 0, 0, 0.596);
+    --botao-inativo: rgba(255, 0, 119, 0.596);
     --texto-fundo: rgba(73, 72, 78, 0.3);
 }
 
